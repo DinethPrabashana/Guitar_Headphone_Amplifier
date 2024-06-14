@@ -25,6 +25,9 @@ A compact and portable headphone amplifier designed for guitar players. This pro
 - PCB or Breadboard
 - Enclosure
 
+## Block_Diagram
+![Block_Diagram]()
+
 ## Schematic
 
 ![Schematic](path_to_schematic.jpg)
