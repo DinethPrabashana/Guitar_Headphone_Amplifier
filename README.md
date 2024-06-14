@@ -30,7 +30,7 @@ A compact and portable headphone amplifier designed for guitar players. This pro
 
 ## Schematic
 
-![Schematic](path_to_schematic.jpg)
+![Schematic](https://github.com/DinethPrabashana/Guitar_Headphone_Amplifier/blob/main/Guitar%20Headphone%20Amplifier/schematic%20and%20block%20diagram/schematic.png)
 
 
 ### Usage
