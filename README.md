@@ -26,7 +26,7 @@ A compact and portable headphone amplifier designed for guitar players. This pro
 - Enclosure
 
 ## Block_Diagram
-![Block_Diagram]()
+![Block_Diagram](https://github.com/DinethPrabashana/Guitar_Headphone_Amplifier/blob/main/Guitar%20Headphone%20Amplifier/schematic%20and%20block%20diagram/block%20diagram.png)
 
 ## Schematic
 
