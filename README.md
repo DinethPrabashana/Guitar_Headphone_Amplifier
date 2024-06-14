@@ -1,6 +1,6 @@
 # Guitar Headphone Amplifier
 
-![Guitar Headphone Amplifier](Guitar Headphone Amplifier/Enclosure/Assembly/product.png)
+![Guitar Headphone Amplifier](Guitar_Headphone_Amplifier/Enclosure/Assembly/product.png)
 
 
 A compact and portable headphone amplifier designed for guitar players. This project allows guitarists to practice silently with high-quality sound output. The amplifier is battery-powered and easy to build, making it an ideal DIY project for both beginners and experienced electronics enthusiasts.
