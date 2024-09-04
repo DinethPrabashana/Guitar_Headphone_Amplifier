@@ -38,5 +38,8 @@ A compact and portable headphone amplifier designed for guitar players. This pro
 4. **Adjust Gain**: Use the potentiometer to adjust the gain to your preference.
 5. **Play Along**: Use the aux input to connect a device for backing tracks.
 
+### Contributors
+1. ![Shenal Ranasinghe]([https://github.com/Shenal-Ranasinghe/Shenal-Ranasinghe])
+
 
 
